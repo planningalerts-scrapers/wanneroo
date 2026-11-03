@@ -12,6 +12,8 @@ To get started [see the documentation](https://morph.io/documentation)
 
 Add any issues to https://github.com/planningalerts-scrapers/issues/issues
 
+Set `MORPH_AUSTRALIAN_PROXY` to an Australian proxy, as yoursay.wanneroo.wa.gov.au returns 403 Forbidden to morph.io
+
 ## To run the scraper
 
     bundle exec ruby scraper.rb
